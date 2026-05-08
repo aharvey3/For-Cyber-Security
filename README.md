@@ -1,3 +1,4 @@
+![Banner](banner.svg)
  Hey, I'm Chase Harvey
 
  M.S. in Cybersecurity** – University of London (with Distinction)  
