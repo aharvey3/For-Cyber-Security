@@ -1,7 +1,7 @@
- 👋 Hey, I'm Chase Harvey
+ Hey, I'm Chase Harvey
 
-🎓 M.S. in Cybersecurity** – University of London (with Distinction)  
-🔐 Passionate about detection engineering, cloud security, and building things that actually help defenders
+ M.S. in Cybersecurity** – University of London (with Distinction)  
+ Passionate about detection engineering, cloud security, and building things that actually help defenders
 
 ---
 
